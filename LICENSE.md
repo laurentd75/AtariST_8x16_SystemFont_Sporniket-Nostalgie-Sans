@@ -1,13 +1,3 @@
-Copyright (c) _\<dates\>_, _\<Copyright Holder\> (\<URL|email\>)_,  
-with Reserved Font Name _\<Reserved Font Name\>_.
-
-Copyright (c) _\<dates\>_, _\<additional Copyright Holder\> (\<URL|email\>)_,  
-with Reserved Font Name _\<additional Reserved Font Name\>_.
-
-Copyright (c) _\<dates\>_, _\<additional Copyright Holder\> (\<URL|email\>)_.  
-&nbsp;
-
-
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 This license is copied below, and is also available with a FAQ at:  
 https\://openfontlicense.org  
