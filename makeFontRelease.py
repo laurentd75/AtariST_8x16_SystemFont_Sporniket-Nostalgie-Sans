@@ -29,7 +29,7 @@ if not os.path.isdir(SOURCE_FONT) and not os.path.isfile(SOURCE_FONT):
 BASE_DIR = os.path.abspath(os.path.dirname(argv[0]))
 (_, FILE_NAME) = os.path.split(argv[1])
 
-TARGET_DIR = os.path.join(BASE_DIR,"build")
+TARGET_DIR = os.path.join(BASE_DIR, "build")
 if not os.path.exists(TARGET_DIR):
     os.makedirs(TARGET_DIR)
 if not os.path.isdir(TARGET_DIR):
@@ -77,4 +77,3 @@ for f in ["ttf"]:
 # (better safe than sorry)
 #
 curfnt.revert()
-
