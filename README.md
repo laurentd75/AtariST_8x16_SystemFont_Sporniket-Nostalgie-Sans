@@ -18,6 +18,14 @@ To date, the collection is made of
 
 * _Sporniket Nostalgie 2 Console_ : inspired by the 8×16 pixels («high resolution») system font of the Atari ST.
 
+### Gallery
+
+#### Sporniket Nostalgie 2 Console
+
+![12pt, without anti aliasing](./gallery/Sporniket-Nostalgie2-Console/16x8_aliased.png)
+
+![12pt, anti aliased](./gallery/Sporniket-Nostalgie2-Console/16x8_anti_aliased.png)
+
 ### What's new in v2.1.0
 
 * _Sporniket Nostalgie 2 Console_ updated :
