@@ -26,6 +26,11 @@ To date, the collection is made of
 
 ![12pt, anti aliased](./gallery/Sporniket-Nostalgie2-Console/16x8_anti_aliased.png)
 
+### What's new in v2.1.1
+
+* _Sporniket Nostalgie 2 Console_ updated :
+  * Euro sign has same width than regular glyphes, and the orientation of the cuts at the ends are like the regular euro sign.
+
 ### What's new in v2.1.0
 
 * _Sporniket Nostalgie 2 Console_ updated :
