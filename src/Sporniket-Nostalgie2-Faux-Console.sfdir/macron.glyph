@@ -1,0 +1,22 @@
+StartChar: macron
+Encoding: 175 175 165
+Width: 576
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+504 718 m 5
+ 504 818 l 5
+ 72 818 l 5
+ 72 718 l 5
+ 504 718 l 5
+  Spiro
+    504 718 v
+    504 818 v
+    72 818 v
+    72 718 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

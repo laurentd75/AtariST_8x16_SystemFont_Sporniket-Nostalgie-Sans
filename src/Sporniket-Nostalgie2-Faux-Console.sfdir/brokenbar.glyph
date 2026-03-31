@@ -1,0 +1,35 @@
+StartChar: brokenbar
+Encoding: 166 166 170
+Width: 256
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+78 -90 m 1
+ 78 334 l 1
+ 178 334 l 1
+ 178 -90 l 1
+ 78 -90 l 1
+  Spiro
+    78 -90 v
+    78 334 v
+    178 334 v
+    178 -90 v
+    0 0 z
+  EndSpiro
+78 434 m 1
+ 78 858 l 1
+ 178 858 l 1
+ 178 434 l 1
+ 78 434 l 1
+  Spiro
+    78 434 v
+    78 858 v
+    178 858 v
+    178 434 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

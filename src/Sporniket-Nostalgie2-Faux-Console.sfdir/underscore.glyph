@@ -1,0 +1,23 @@
+StartChar: underscore
+Encoding: 95 95 71
+Width: 576
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+504 14 m 1
+ 504 114 l 1
+ 72 114 l 1
+ 72 14 l 1
+ 504 14 l 1
+  Spiro
+    504 14 v
+    504 114 v
+    72 114 v
+    72 14 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

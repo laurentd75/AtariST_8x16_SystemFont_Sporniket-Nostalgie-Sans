@@ -1,0 +1,48 @@
+StartChar: dotlessi
+Encoding: 257 305 101
+Width: 256
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+AnchorPoint: "top" 128 576 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+28 576 m 1
+ 178 576 l 1
+ 178 476 l 1
+ 28 476 l 1
+ 28 576 l 1
+  Spiro
+    28 576 v
+    178 576 v
+    178 476 v
+    28 476 v
+    0 0 z
+  EndSpiro
+28 100 m 1
+ 228 100 l 1
+ 228 0 l 1
+ 28 0 l 1
+ 28 100 l 1
+  Spiro
+    28 100 v
+    228 100 v
+    228 0 v
+    28 0 v
+    0 0 z
+  EndSpiro
+78 576 m 1
+ 178 576 l 1
+ 178 0 l 1
+ 78 0 l 1
+ 78 576 l 1
+  Spiro
+    78 576 v
+    178 576 v
+    178 0 v
+    78 0 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
