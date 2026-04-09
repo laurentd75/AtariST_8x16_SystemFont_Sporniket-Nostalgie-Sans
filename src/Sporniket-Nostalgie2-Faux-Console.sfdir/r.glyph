@@ -1,9 +1,9 @@
 StartChar: r
 Encoding: 114 114 8
-Width: 512
+Width: 448
 VWidth: 0
 InSpiro: 1
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

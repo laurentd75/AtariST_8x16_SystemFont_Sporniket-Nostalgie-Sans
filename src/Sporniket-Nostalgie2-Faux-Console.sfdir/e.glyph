@@ -1,9 +1,9 @@
 StartChar: e
 Encoding: 101 101 21
-Width: 512
+Width: 448
 VWidth: 0
 InSpiro: 1
-Flags: MW
+Flags: HMW
 AnchorPoint: "top" 256 576 basechar 0
 LayerCount: 2
 Fore
