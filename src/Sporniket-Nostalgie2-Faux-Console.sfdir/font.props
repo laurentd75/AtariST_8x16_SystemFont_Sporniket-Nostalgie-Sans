@@ -5,7 +5,7 @@ FamilyName: Sporniket Nostalgie 2 Faux Console
 Weight: Regular
 Copyright: Copyright (c) 2026, David SPORN,,,
 UComments: "This font use the same glyphs as 'Sporniket Nostalgie 2 Console', but with a variable width to accommodate each glyph's real width. The ideal rendering is at 16 pixel height.+AAoACgAA-Created with FontForge (http://fontforge.org)+AAoACgAA-2026-03-25 : duplicated from 'Sporniket Nostalgie 2 Console'"
-Version: 001.003
+Version: 001.000.beta.1
 ItalicAngle: 0
 UnderlinePosition: -127
 UnderlineWidth: 64
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1587301957
-ModificationTime: 1775768185
+ModificationTime: 1775768304
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
